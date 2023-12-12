@@ -7,10 +7,9 @@
 </div>
   <br/>
 
-- 🔭 Trabalho atualmente na Associação Antônio Vieira (ASAV) como Web Designer desde 2018
-- 📚 Curso Análise e Desenvolvimento de Sistemas na Unisinos (último semestre 2022/1)
-- 🌱 Atualmente estudo NodeJS (typescript) e React
-- 🎯 Objetivo: Tornar-me desenvolvedor web full stack utilizando as tecnologias já mencionadas
+- 🔭 Trabalho atualmente na Associação Antônio Vieira (ASAV) como Programador web jr.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas na Unisinos (Julho/2022)
+- 🌱 Atualmente estudo javascript, typescript e java
 <br/>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanoelf&show_icons=true&theme=tokyonight)
